@@ -1,0 +1,12 @@
+# raw dataset (fetched by src/data_prep.py, ~130MB)
+data/raw/
+data/processed/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

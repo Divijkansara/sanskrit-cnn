@@ -1,0 +1,11 @@
+{
+  "checkpoint_epoch": 18,
+  "test_images": 13800,
+  "accuracy": 0.9947826086956522,
+  "precision_macro": 0.9948075422069926,
+  "recall_macro": 0.9947826086956522,
+  "f1_macro": 0.9947842069364489,
+  "precision_weighted": 0.9948075422069924,
+  "recall_weighted": 0.9947826086956522,
+  "f1_weighted": 0.9947842069364489
+}
